@@ -37,3 +37,5 @@ COMBINE_HIDPI_IMAGES = YES
 
 // For embedded frameworks.
 LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/../Frameworks
+
+SWIFT_VERSION                      = 2.3
